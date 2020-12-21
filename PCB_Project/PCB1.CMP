@@ -1,0 +1,15 @@
+Component   : KFT DIP-8X8
+PCB Library : PCB1.PcbLib
+Date        : 2020/11/16
+Time        : 0:23:22
+
+
+
+Dimension : 0.328 x 0.331 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 6          0        0       0        0
+ Top Overlay                 0         14        0       6        0
+--------------------------------------------------------------------
+ Total                       6         14        0       6        0
